@@ -1,1 +1,2 @@
-https://ceuga.github.io/rsschool-cv/cv
+#rsschool-cv
+https://ceuga.github.io/rsschool-cv/
